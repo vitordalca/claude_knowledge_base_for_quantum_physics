@@ -246,3 +246,35 @@ No external concepts (e.g., gravitons, supersymmetry, extra dimensions) were add
 **Result:** Wiki is now complete—all 23 concept pages have substantive content grounded in web sources and wiki context.
 
 ---
+
+## [2026-04-20] ingest | 3Blue1Brown "What's so special about Euler's number e?"
+
+Processed 3Blue1Brown video on Euler's number and calculus fundamentals.
+
+**Source:** raw/clippings/What's so special about Euler's number e — Chapter 5, Essence of calculus.md (video transcript)
+
+**Created:**
+- wiki/sources/what-is-special-about-eulers-number.md — Complete breakdown of why e is the special exponential base
+- wiki/concepts/euler-number.md — Definition, emergence, connection to natural log, applications
+- wiki/concepts/calculus.md — Foundational concept; role of e in differential equations
+- wiki/concepts/derivative.md — Core calculus operation; proportionality to exponential functions
+- wiki/concepts/exponential-function.md — General theory; proportionality constant ln(a)
+- wiki/concepts/natural-logarithm.md — Inverse of exponential; explains "mystery constants"
+- wiki/entities/3blue1brown.md — Educational content creator; animator of mathematics
+
+**Updated:**
+- wiki/index.md — Added 1 source (4 total), 5 new concepts (28 total), 1 new entity (4 total)
+
+**Key Insights:**
+- Euler's number e is **defined** by the property that d/dt(e^t) = e^t (proportionality constant = 1)
+- For any other base a: d/dt(a^t) = ln(a) · a^t; the "mystery constant" is simply ln(a)
+- This makes e the natural choice for modeling continuous growth: y(t) = y₀·e^(ct)
+- Connection to quantum mechanics: wave functions evolve as e^(iEt/ℏ), grounding quantum amplitudes in calculus
+- Establishes conceptual bridge between **continuous exponential growth** (calculus layer) and **quantum field oscillations** (physics layer already in wiki)
+
+**Wiki Integration:**
+New calculus foundation connects to existing quantum mechanics content:
+- Exponential functions are the basis for quantum field oscillations ([[quantum-field-oscillations]])
+- Derivative properties underlie Schrödinger equation dynamics
+- Natural log appears in entropy (foundational to statistical mechanics)
+
