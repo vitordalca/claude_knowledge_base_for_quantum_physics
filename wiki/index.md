@@ -12,21 +12,33 @@ _Last updated: 2026-04-17_
 | [[sources/what-is-a-particle-quantum-fields]] | But What Actually Is a Particle? How Quantum Fields Shape Reality | 2025-06-14 | video-transcript |
 | [[sources/higgs-boson-mechanism]] | What the Higgs Boson Actually Is (No Analogies) | 2025-09-20 | video-transcript |
 
-## Concepts (11 total)
+## Concepts (23 total)
 
 | Page | Title | Source Count |
 |---|---|---|
 | [[concepts/antimatter]] | Antimatter | 1 |
+| [[concepts/antihydrogen]] | Antihydrogen | 1 |
 | [[concepts/antiproton]] | Antiproton | 1 |
+| [[concepts/big-bang]] | Big Bang | 1 |
 | [[concepts/cpt-symmetry]] | CPT Symmetry | 1 |
+| [[concepts/cryogenics]] | Cryogenics | 0 |
+| [[concepts/dispersion-relation]] | Dispersion Relation | 0 |
 | [[concepts/higgs-boson]] | Higgs Boson | 1 |
+| [[concepts/higgs-field]] | Higgs Field | 1 |
 | [[concepts/higgs-mechanism]] | Higgs Mechanism | 1 |
 | [[concepts/matter-antimatter-asymmetry]] | Matter-Antimatter Asymmetry | 1 |
+| [[concepts/mexican-hat-potential]] | Mexican Hat Potential | 1 |
+| [[concepts/parity-violation]] | Parity Violation | 1 |
 | [[concepts/particles]] | Particles | 1 |
 | [[concepts/penning-trap]] | Penning Trap | 1 |
+| [[concepts/photon]] | Photon | 0 |
+| [[concepts/quantum-field-oscillations]] | Quantum Field Oscillations | 1 |
 | [[concepts/quantum-field-theory]] | Quantum Field Theory | 1 |
 | [[concepts/quantum-fields]] | Quantum Fields | 1 |
 | [[concepts/rest-mass]] | Rest Mass | 1 |
+| [[concepts/special-relativity]] | Special Relativity | 0 |
+| [[concepts/vacuum-expectation-value]] | Vacuum Expectation Value | 1 |
+| [[concepts/weak-force]] | Weak Force | 1 |
 
 ## Entities (3 total)
 

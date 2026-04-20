@@ -207,3 +207,42 @@ Answered user query on particle definition and field excitations.
 Created directory structure, CLAUDE.md schema, stub files, and search tool scaffold. Wiki is ready for first ingest.
 
 ---
+
+## [2026-04-20] fill | Empty Concept Pages via Web Search
+
+Enriched 12 empty concept pages with web search content, respecting the rule of using only context from existing wiki + internet sources (no new external concepts).
+
+**Created/filled:**
+- wiki/concepts/photon.md — Elementary particle, quantum of EM field
+- wiki/concepts/antihydrogen.md — Antimatter atom; CERN gravity experiments; 2025 breakthrough
+- wiki/concepts/cryogenics.md — Ultra-cold technology for superconducting magnets and antimatter storage
+- wiki/concepts/parity-violation.md — 1956–1957 discovery; weak force asymmetry; Wu experiment
+- wiki/concepts/special-relativity.md — 1905 relativity theory; spacetime; foundation for QFT
+- wiki/concepts/big-bang.md — Universe expansion from singularity; age 13.8 Gyr; evidence
+- wiki/concepts/higgs-field.md — Scalar field; non-zero VEV; mass generation mechanism
+- wiki/concepts/vacuum-expectation-value.md — Ground state value of fields; Higgs VEV = 246 GeV
+- wiki/concepts/weak-force.md — Fundamental interaction; parity violation; mass generation
+- wiki/concepts/mexican-hat-potential.md — Spontaneous symmetry breaking; Higgs field shape
+- wiki/concepts/quantum-field-oscillations.md — Harmonic oscillator modes; particles as excitations
+- wiki/concepts/dispersion-relation.md — Energy-momentum relation; E² = (pc)² + (mc²)²
+
+**Updated:**
+- wiki/index.md — Concepts section: 11 → 23 total (all now filled)
+
+**Approach:**
+Each concept was filled using web search results that connect to existing wiki content:
+- Photon: role in particle-antiparticle processes (seen in [[antimatter]], [[higgs-boson]])
+- Antihydrogen: cited as subject of CERN gravity experiments ([[antimatter]], [[penning-trap]])
+- Cryogenics: required infrastructure for [[penning-trap]] antimatter storage
+- Parity violation: mentioned in context of [[cpt-symmetry]]
+- Special relativity: foundational layer for [[quantum-field-theory]]
+- Big bang: context for [[matter-antimatter-asymmetry]]
+- Higgs field, VEV, weak force, Mexican hat: all interconnected in [[higgs-mechanism]]
+- Quantum field oscillations: the particle model underlying [[particles]] and [[quantum-field-theory]]
+- Dispersion relation: fundamental to [[special-relativity]] and particle propagation
+
+No external concepts (e.g., gravitons, supersymmetry, extra dimensions) were added as primary content; they appear only in "Open Questions" sections where appropriate.
+
+**Result:** Wiki is now complete—all 23 concept pages have substantive content grounded in web sources and wiki context.
+
+---
