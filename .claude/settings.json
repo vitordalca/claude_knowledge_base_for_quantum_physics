@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Check if the user's message starts with the word 'query' (case-insensitive, ignoring whitespace). If yes, respond with: {\"hookSpecificOutput\": {\"hookEventName\": \"UserPromptSubmit\", \"additionalContext\": \"Query detected: After answering this query, automatically create a wiki/outputs/ page with the answer and update wiki/index.md and wiki/log.md accordingly.\"}}. If no, respond with: {\"continue\": true}"
+          }
+        ]
+      }
+    ]
+  }
+}

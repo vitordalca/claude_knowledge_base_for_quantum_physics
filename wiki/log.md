@@ -109,6 +109,99 @@ Processed Veritasium video transcript on CERN's antimatter factory and physics o
 
 ---
 
+## [2026-04-20] query | How Does a Black Hole Lose Energy from Hawking Radiation?
+
+Answered the apparent paradox: how can energy escape an impenetrable event horizon?
+
+**Created:**
+- wiki/outputs/hawking-radiation-energy-loss.md — Resolves paradox: event horizon is causal boundary (not physical wall); particles created outside/at horizon, not escaping from inside; negative-energy particle falling in reduces BH mass; thermal evaporation picture explained
+
+**Updated:**
+- wiki/index.md — Added 1 output (5 total)
+
+**Key Resolutions:**
+- Event horizon = causal boundary (signals can't return), not a physical barrier blocking particle creation at boundary
+- Virtual pairs created just outside horizon; tidal force separates them before annihilation
+- Positive energy particle escapes; negative energy particle falls in (reduces M_BH)
+- Black holes are blackbodies: T_H ∝ 1/M_BH; smaller = hotter = evaporates faster
+- Black holes eventually completely evaporate after very long time (10⁶⁷ years for solar mass)
+- Information paradox: Hawking radiation is thermal (no info); but where does info from infalling matter go?
+
+---
+
+## [2026-04-20] query | Hawking Radiation, Gravitons, and the Higgs Boson
+
+Answered sophisticated question on quantum gravity, Hawking radiation mechanism, and particle differences.
+
+**Created:**
+- wiki/outputs/hawking-radiation-gravitons-higgs.md — Clarifies that Hawking radiation uses classical spacetime curvature (not graviton quanta) to separate virtual pairs; explains Higgs-vs-graviton differences; notes quantum gravity remains unsolved
+
+**Updated:**
+- wiki/index.md — Added 1 output (4 total)
+
+**Key Clarifications:**
+- Hawking radiation: classical spacetime tidal forces separate virtual pairs; energy comes from black hole mass, not graviton quanta
+- Higgs (spin 0, 125 GeV, observed) vs. Graviton (spin 2, massless, hypothetical, unsolved quantum gravity)
+- Works for any field near black hole; Higgs boson not required
+- Quantum gravity (including graviton quantization) remains the deepest unsolved problem in physics
+
+---
+
+## [2026-04-20] query | Why Don't Real Particles Decay Back to Void?
+
+Answered conceptual question on virtual vs. real particles and energy conservation.
+
+**Created:**
+- wiki/outputs/virtual-vs-real-particles.md — Distinguishes virtual (off-shell, temporary) from real (on-shell, stable) particles; clarifies energy conservation and decay mechanisms
+
+**Updated:**
+- wiki/index.md — Added 1 output (3 total)
+
+**Key Distinctions Clarified:**
+- Virtual particles borrow energy ΔE for time Δt ~ ℏ/ΔE (uncertainty principle); must be reabsorbed quickly
+- Real particles satisfy mass-shell condition E² = (pc)² + (m²c⁴); can propagate indefinitely
+- Real particles don't "decay into void" because that violates energy conservation
+- Stable particles (electron, photon, proton) have no kinematically allowed decay modes
+- Rest mass is property of field structure, not energy that needs "holding up"
+
+---
+
+## [2026-04-20] query | Why Doesn't the Vacuum Have Rest Mass?
+
+Answered conceptual question on vacuum energy vs. particle rest mass.
+
+**Created:**
+- wiki/outputs/vacuum-rest-mass-distinction.md — Clarifies vacuum as ground state (not excitation) and why rest mass only applies to particles
+
+**Updated:**
+- wiki/index.md — Added 1 output (2 total)
+
+**Key Distinction Clarified:**
+- Vacuum is ground state (zero excitations); particles are excitations above vacuum
+- Rest mass m = ℏω₀/c² describes energy of one quantum excitation, not the field itself
+- Vacuum has zero-point energy (½ℏωm per mode) but this is not "rest mass"
+- Rest mass = cost of creating a particle from vacuum; zero-point energy = field's ground-state energy
+
+---
+
+## [2026-04-20] query | What is a Particle Quantum Field? Quanta and Interactions
+
+Answered user query on particle definition and field excitations.
+
+**Created:**
+- wiki/outputs/particles-and-field-quanta.md — Synthesis of particle-field relationship and quantum interactions
+
+**Updated:**
+- wiki/index.md — Added 1 output (1 total)
+
+**Key Points Synthesized:**
+- Particles are not fundamental; they are discrete excitations (quanta) of quantum fields
+- Rest mass emerges from minimum field oscillation frequency: m = ℏω₀/c²
+- Quanta interact via field coupling; creation/annihilation governs particle processes
+- Quantization enforced by creation/annihilation operators; Pauli exclusion for fermions automatic
+
+---
+
 ## [2026-04-17] setup | Initial wiki bootstrap
 
 Created directory structure, CLAUDE.md schema, stub files, and search tool scaffold. Wiki is ready for first ingest.

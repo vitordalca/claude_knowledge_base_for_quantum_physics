@@ -36,7 +36,12 @@ _Last updated: 2026-04-17_
 | [[entities/chien-shiung-wu]] | Chien-Shiung Wu | person |
 | [[entities/paul-dirac]] | Paul Dirac | person |
 
-## Outputs (0 total)
+## Outputs (5 total)
 
 | Page | Title | Date |
 |---|---|---|
+| [[outputs/particles-and-field-quanta]] | What is a Particle Quantum Field? Quanta and Interactions | 2026-04-20 |
+| [[outputs/vacuum-rest-mass-distinction]] | Why Doesn't the Vacuum Have Rest Mass If It's the Minimal Oscillation? | 2026-04-20 |
+| [[outputs/virtual-vs-real-particles]] | Why Don't Real Particles Decay Back to Void? Virtual vs. Real Particles | 2026-04-20 |
+| [[outputs/hawking-radiation-gravitons-higgs]] | Hawking Radiation, Gravitons, and the Higgs Boson | 2026-04-20 |
+| [[outputs/hawking-radiation-energy-loss]] | How Does a Black Hole Lose Energy from Hawking Radiation if the Event Horizon is Impenetrable? | 2026-04-20 |
